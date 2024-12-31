@@ -1,6 +1,6 @@
 <h1>
   <p align="center" width="100%">
-    <img width="63%" src="../.recursos/img/logos/opndash.png">
+    <img width="63%" src=".recursos/img/opndash.png">
     </br>
     OPNsense Dashboard
   </p> 
@@ -8,9 +8,9 @@
 
 <h2> 
   <p align="center" width="100%">
-    A dashboard for OPNsense forked from Brendan Smith (bsmithio), and tweaked by myself.</br>
-	  Based on InfluxDB, Graylog, Mongo, ElasticSearch and Grafana
+    Un panel para OPNsense basado en el de Brendan Smith (bsmithio), y retocado por mí.</br>
+	  Basedo en InfluxDB, Graylog, Mongo, ElasticSearch y Grafana
   </p>
 </h2>
 
-### COMING SOON™
+### PRÓXIMAMENTE™
